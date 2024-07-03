@@ -3,6 +3,6 @@ Hi, I'm Pierce! I have a Bachelor of Business Administration with a double major
 - I am also looking for any work opportunities to grow, develop, and prove my skills.
 - Either email me at piercestrutt@gmail.com or text me at 778-873-3000.
 
-Click [here](https://vercel.com/pierce-strutts-projects/react-portfolio-st) for my portfolio.
+Click [here](https://pierce-strutt.vercel.app/)) for my portfolio.
 
 Thank you for checking out my GitHub!
